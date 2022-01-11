@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4D8F00DaCE1aB18c866971da9A19A365acA7DC2C",
+  "SCAN_LINK": "https://polygonscan.com/token/0x4D8F00DaCE1aB18c866971da9A19A365acA7DC2C",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Jiggle Keyz 1",
+  "SYMBOL": "JKZ1",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10.00,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/jkz1",
+  "SHOW_BACKGROUND": true
+}
